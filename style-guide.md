@@ -1,35 +1,35 @@
-# Front-end Style Guide
+# Guia de estilo de front-end
 
 ## Layout
 
-The designs were created to the following widths:
+Os desenhos foram criados nas seguintes larguras:
 
-- Mobile: 375px
-- Desktop: 1440px
+- Móvel: 375px
+- Área de trabalho: 1440px
 
-## Colors
+## Cores
 
-### Primary
+### Principal
 
-Bright orange: hsl(31, 77%, 52%)
-Dark cyan: hsl(184, 100%, 22%)
-Very dark cyan: hsl(179, 100%, 13%)
+Laranja brilhante: hsl(31, ​​77%, 52%)
+Ciano escuro: hsl(184, 100%, 22%)
+Ciano muito escuro: hsl(179, 100%, 13%)
 
-### Neutral
+### Neutro
 
-Transparent white (paragraphs): hsla(0, 0%, 100%, 0.75)
-Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
+Branco transparente (parágrafos): hsla(0, 0%, 100%, 0,75)
+Cinza muito claro (fundo, cabeçalhos, botões): hsl(0, 0%, 95%)
 
-## Typography
+## Tipografia
 
-### Body Copy
+### Cópia do corpo
 
-- Font size: 15px
+- Tamanho da fonte: 15px
 
-### Font
+### Fonte
 
-- Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
-- Weights: 400
+- Família: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
+- Pesos: 400
 
-- Family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display)
-- Weights: 700
+- Família: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display)
+- Pesos: 700
