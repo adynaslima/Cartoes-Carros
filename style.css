@@ -1,0 +1,60 @@
+.conteudogeral {
+    padding: 60px 20px;
+}
+
+.sedans {
+    background-color: hsl(31, 77%, 52%); 
+    padding: 30px;
+    border-radius: 10px 10px 0 0;
+}
+
+.suvs {
+    background-color: hsl(184, 100%, 22%);
+    padding: 30px;
+}
+
+.luxury {
+    background-color: hsl(179, 100%, 13%);
+    padding: 30px;
+    border-radius: 0 0 10px 10px;
+}
+
+h2 {
+    font-family: 'Big Shoulders Display';
+    padding: 0 30px 30px 0;
+    font-size: 40px;
+    color: white;
+}
+
+p {
+    font-family: 'Lexend Deca', sans-serif;
+    padding: 0 30px 30px 0;
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75)
+}
+
+.botao01 {
+    background-color: hsl(0, 0%, 95%)
+    color: hsl(31, 77%, 52%); 
+    border: 1px solid #eee;
+    border-radius: 20px;
+}
+
+.botao02 {
+    background-color: hsl(0, 0%, 95%)
+    color: hsl(184, 100%, 22%);
+    border: 1px solid #eee;
+    border-radius: 20px;
+}
+
+.botao03 {
+    background-color: hsl(0, 0%, 95%)
+    color: hsl(31, 77%, 52%); 
+    border: 1px solid #eee;
+    border-radius: 20px;
+}
+
+img {
+    padding: 0 30px 30px 0;
+}
+
