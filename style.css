@@ -67,3 +67,27 @@ img {
     padding: 0 0 40px 0;
 }
 
+@media (min-width: 1440px) {
+    .conteudogeral {
+        display: flex;
+        padding: 180px 250px;
+        height: 550px;
+    }
+
+    .sedans {
+        border-radius: 10px 0 0 10px;
+    }
+
+    .luxury {
+        border-radius: 0 10px 10px 0;
+    }
+
+    .titulos {
+        font-size: 40px;
+    }
+
+    .paragrafos {
+        padding: 0 0 100px 0;
+        font-size: 20px;
+    }
+}
