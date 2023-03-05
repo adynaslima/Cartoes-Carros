@@ -31,6 +31,7 @@
     padding: 0 0 40px 0;
     font-size: 15px;
     color: hsla(0, 0%, 100%, 0.75);
+    line-height: 1.2em;
 }
 
 .botao01 {
@@ -67,7 +68,7 @@ img {
     padding: 0 0 40px 0;
 }
 
-@media (min-width: 1440px) {
+@media screen and (min-width: 1440px) {
     .conteudogeral {
         display: flex;
         padding: 180px 250px;
@@ -89,5 +90,6 @@ img {
     .paragrafos {
         padding: 0 0 100px 0;
         font-size: 20px;
+        line-height: 1.2em;
     }
 }
